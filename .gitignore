@@ -2,6 +2,6 @@
 build/
 !gradle/wrapper/gradle-wrapper.jar
 
-.idea
+.idea/
 lets-plot-images
 
